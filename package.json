@@ -1,0 +1,9 @@
+{
+  "name": "nodeJS-game",
+  "version": "0.0.1",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "express": "^4.16.4",
+    "json-stringify-safe": "^5.0.1"
+  }
+}
