@@ -19,3 +19,5 @@ $ node gate_server.js
 
 # 捐赠
 如果您觉得这个项目帮助了您，可以帮笔者买一个棒棒糖表示鼓励
+
+![](http://m.qpic.cn/psb?/V139jz2P1S9r8b/qjSjVqPmxzQ1z5j7WZ1PGvVlS5Nd9DAl1Jhf6c.cu7w!/b/dLYAAAAAAAAA&bo=vAJoAQAAAAADB*U!&rf=viewer_4)
