@@ -9,7 +9,9 @@ nodeJS-game是一个游戏服务端解决方案，它基于nodeJS和express。�
 
 ```sh
 $ git clone https://github.com/ILXJ001/express-game.git
+
 $ npm install 
+
 $ node gate_server.js
 
 配置好mysql之后，就可以在浏览器里面测试了
