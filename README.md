@@ -8,6 +8,7 @@ nodeJS-game是一个游戏服务端解决方案，它基于nodeJS和express。�
 笔者该项目的IDE为Webstorm，大家也可以用其他熟悉的开发工具如VScode
 
 [PM2入门](https://pm2.io/doc/en/runtime/overview/?utm_source=pm2&utm_medium=website&utm_campaign=rebranding)
+[express router的一些知识](https://segmentfault.com/a/1190000013652560)
 
 # 开发
 ```sh
